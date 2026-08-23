@@ -1,3 +1,4 @@
+//leetcode 206
 class Solution {
     public ListNode solve(ListNode prev,ListNode curr){
         if(curr==null){
